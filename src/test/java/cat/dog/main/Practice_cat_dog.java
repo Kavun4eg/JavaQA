@@ -7,7 +7,7 @@ import oop_practice.cat_dog.dog.Dog;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Practice_cat_dog {
+public class Practice_cat_dog{
 
     public static void main(String... args) {
         List<Animal> animals = new ArrayList<Animal>();
